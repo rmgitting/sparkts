@@ -1,0 +1,31 @@
+{"PM2_5":"12","PM10":"13","PM1_0":"13","NO2":"NULL","BC":"1509","activity":"Domicile","event":"Ouverture De Fenêtre","coordinates":"[48.83652667, 2.529348333]","timestamp":1560314881}
+{"PM2_5":"12","PM10":"13","PM1_0":"13","NO2":"NULL","BC":"1509","activity":"Domicile","event":"Ouverture De Fenêtre","coordinates":"[48.836355, 2.529325]","timestamp":1560314912}
+{"PM2_5":"4","PM10":"4","PM1_0":"4","NO2":"NULL","BC":"1105","activity":"Rue","event":"NULL","coordinates":"[48.83594167, 2.530051667]","timestamp":1560317522}
+{"PM2_5":"4","PM10":"4","PM1_0":"4","NO2":"NULL","BC":"1105","activity":"Rue","event":"NULL","coordinates":"[48.83603667, 2.52985]","timestamp":1560317553}
+{"PM2_5":"1","PM10":"1","PM1_0":"1","NO2":"NULL","BC":"917","activity":"Bus","event":"NULL","coordinates":"[48.83648, 2.52973]","timestamp":1560320190}
+{"PM2_5":"1","PM10":"1","PM1_0":"1","NO2":"NULL","BC":"974","activity":"Rue","event":"NULL","coordinates":"[48.83635833, 2.529766667]","timestamp":1560320588}
+{"PM2_5":"1","PM10":"1","PM1_0":"1","NO2":"NULL","BC":"974","activity":"Rue","event":"NULL","coordinates":"[48.83642, 2.52948]","timestamp":1560320618}
+{"PM2_5":"2","PM10":"2","PM1_0":"2","NO2":"NULL","BC":"846","activity":"Bureau","event":"Ouverture De Fenêtre","coordinates":"[48.83620333, 2.52943]","timestamp":1560320884}
+{"PM2_5":"2","PM10":"2","PM1_0":"2","NO2":"NULL","BC":"846","activity":"Bureau","event":"Ouverture De Fenêtre","coordinates":"[48.83595833, 2.529403333]","timestamp":1560320931}
+{"PM2_5":"0","PM10":"0","PM1_0":"0","NO2":"NULL","BC":"114","activity":"Rue","event":"NULL","coordinates":"[48.82939833, 2.315678333]","timestamp":1560353887}
+{"PM2_5":"0","PM10":"0","PM1_0":"0","NO2":"NULL","BC":"114","activity":"Rue","event":"NULL","coordinates":"[48.829615, 2.315348333]","timestamp":1560353918}
+{"PM2_5":"18","PM10":"20","PM1_0":"20","NO2":"NULL","BC":"2198","activity":"Métro","event":"NULL","coordinates":"[48.83160167, 2.313843333]","timestamp":1560355578}
+{"PM2_5":"18","PM10":"20","PM1_0":"20","NO2":"NULL","BC":"2198","activity":"Métro","event":"NULL","coordinates":"[48.83196833, 2.313508333]","timestamp":1560355609}
+{"PM2_5":"0","PM10":"0","PM1_0":"0","NO2":"NULL","BC":"364","activity":"Domicile","event":"NULL","coordinates":"[48.826745, 2.355156667]","timestamp":1560358705}
+{"PM2_5":"0","PM10":"0","PM1_0":"0","NO2":"NULL","BC":"364","activity":"Domicile","event":"NULL","coordinates":"[48.826745, 2.355156667]","timestamp":1560358736}
+{"PM2_5":"158","PM10":"177","PM1_0":"177","NO2":"NULL","BC":"666","activity":"Rue","event":"NULL","coordinates":"[48.82704667, 2.355033333]","timestamp":1560360966}
+{"PM2_5":"158","PM10":"177","PM1_0":"177","NO2":"NULL","BC":"666","activity":"Rue","event":"NULL","coordinates":"[48.82695333, 2.354766667]","timestamp":1560360997}
+{"PM2_5":"171","PM10":"191","PM1_0":"191","NO2":"NULL","BC":"4315","activity":"Magasin","event":"NULL","coordinates":"[48.82690833, 2.354735]","timestamp":1560361273}
+{"PM2_5":"171","PM10":"191","PM1_0":"191","NO2":"NULL","BC":"4315","activity":"Magasin","event":"NULL","coordinates":"[48.82677333, 2.354881667]","timestamp":1560361304}
+{"PM2_5":"71","PM10":"77","PM1_0":"77","NO2":"NULL","BC":"2158","activity":"Rue","event":"NULL","coordinates":"[48.82700833, 2.354626667]","timestamp":1560362160}
+{"PM2_5":"71","PM10":"77","PM1_0":"77","NO2":"NULL","BC":"2158","activity":"Rue","event":"NULL","coordinates":"[48.82702833, 2.35431]","timestamp":1560362191}
+{"PM2_5":"35","PM10":"41","PM1_0":"41","NO2":"NULL","BC":"1288","activity":"Bus","event":"NULL","coordinates":"[48.82687, 2.354973333]","timestamp":1560362968}
+{"PM2_5":"35","PM10":"41","PM1_0":"41","NO2":"NULL","BC":"1288","activity":"Bus","event":"NULL","coordinates":"[48.82688667, 2.354848333]","timestamp":1560362999}
+{"PM2_5":"1","PM10":"1","PM1_0":"1","NO2":"NULL","BC":"473","activity":"Domicile","event":"NULL","coordinates":"[48.82696833, 2.354953333]","timestamp":1560364886}
+{"PM2_5":"1","PM10":"1","PM1_0":"1","NO2":"NULL","BC":"473","activity":"Domicile","event":"NULL","coordinates":"[48.82711167, 2.354923333]","timestamp":1560364917}
+{"PM2_5":"4","PM10":"5","PM1_0":"5","NO2":"NULL","BC":"807","activity":"Rue","event":"NULL","coordinates":"[48.82707167, 2.350971667]","timestamp":1560437831}
+{"PM2_5":"4","PM10":"5","PM1_0":"5","NO2":"NULL","BC":"807","activity":"Rue","event":"NULL","coordinates":"[48.82738667, 2.350858333]","timestamp":1560437861}
+{"PM2_5":"1","PM10":"3","PM1_0":"3","NO2":"NULL","BC":"592","activity":"Train","event":"NULL","coordinates":"[48.82708833, 2.35463]","timestamp":1560439151}
+{"PM2_5":"1","PM10":"3","PM1_0":"3","NO2":"NULL","BC":"592","activity":"Train","event":"NULL","coordinates":"[48.82685, 2.354806667]","timestamp":1560439182}
+{"PM2_5":"0","PM10":"2","PM1_0":"2","NO2":"NULL","BC":"159","activity":"Rue","event":"NULL","coordinates":"[48.82708, 2.355665]","timestamp":1560440346}
+{"PM2_5":"0","PM10":"2","PM1_0":"2","NO2":"NULL","BC":"159","activity":"Rue","event":"NULL","coordinates":"[48.827085, 2.355568333]","timestamp":1560440376}
