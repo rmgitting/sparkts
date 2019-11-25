@@ -1,5 +1,6 @@
 # sparkts
 
+article to read is [here](https://github.com/rmgitting/sparkts/blob/master/Workshop_ECML_PKDD%20(59).pdf)
 ## Context 
 
 This library tries to implement some operators to manipulate time series in Spark
